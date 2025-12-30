@@ -5,7 +5,7 @@
 Quixera que me axudaras a crear un promt para indicarlle a unha IA que faga unha aplicación para o aprendizaxe do Galego. A aplicación consiste nun xogo de crucigramas aleatorios onde o usuario terá acceso a n letras que deberá asociar formando palabras que iran completando o crucigrama. cada vez que o usuario complete un crucigrama premiaráselle por menor tempo empregado, por o menor numero de intentos por palabra, e poderá optar por sair da aplicación ou por seguir xogando. Se quere seguir xogando a aplicación xerará outro crucigrama aleatorio e proderá seguir xogando e acumulando puntos, cantas veces queira
 
 # ii
-Claro! Aquí tes un **prompt detallado en galego** para pedirlle a unha IA (como ChatGPT, Claude, Gemini ou modelos de código) que desenvolva a aplicación de aprendizaxe de galego que describiches.
+Aquí tes un **prompt detallado en galego** para pedirlle a unha IA (como ChatGPT, Claude, Gemini ou modelos de código) que desenvolva a aplicación de aprendizaxe de galego que describiches.
 
 ---
 
@@ -103,5 +103,4 @@ Quero que me desenvolves este proxecto completo, listo para executar nun navegad
 
 Este prompt está listo para copiar e pegar nunha IA. Axustao se precisas engadir máis detalles ou cambiar algún aspecto. **Moita sorte co proxecto!** 💻🌱
 
-----
-# iii
+
